@@ -1,0 +1,10 @@
+{
+  // Mirror the VS Code markdownlint extension defaults (line-length off),
+  // plus allow the centered HTML <img> used for portrait mobile/iOS
+  // screenshots so they render side by side instead of full width.
+  "default": true,
+  "MD013": false,
+  "MD033": {
+    "allowed_elements": ["p", "img"]
+  }
+}
