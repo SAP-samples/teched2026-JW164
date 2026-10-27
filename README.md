@@ -1,6 +1,7 @@
 # JW164 - Joule Work mobile app: Your company's AI-native mobile experience
 
-<!-- Optional: add a session banner image here once available, e.g. ./exercises/ex0/images/JW164.jpg -->
+
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2026-JW164)](https://api.reuse.software/info/github.com/SAP-samples/teched2026-JW164)
 
 ## Description
 
