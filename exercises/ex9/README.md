@@ -145,7 +145,9 @@ So far you explored Spaces that were prepared for you. Now you create your own, 
 
 ## Exercise 9.8 Continue the conversation inside the Space
 
-1. Go back to the Space and tap the **conversation** button at the bottom right. Ask Joule a follow-up question:
+1. Stay in the **browser** where you have the same Space open. Click the **chat panel** button at the top right to expand the conversation panel.
+
+2. In the panel, ask Joule a follow-up question:
 
     ```text
     can you provide me details for the first sales order visible in the space?
@@ -153,26 +155,30 @@ So far you explored Spaces that were prepared for you. Now you create your own, 
 
     After a short moment, a new card with the order details appears on the Space's canvas.
 
+    ![Follow-up prompt typed in the browser chat panel](images/ex9_17_followup_prompt_web.png)
+
+    ![Sales order detail card added to the Space canvas on the web](images/ex9_18_sales_order_card_web.png)
+
+3. Check your phone at the same time: the new card is appearing there automatically in real time, without any action on your part. Web and mobile stay in sync.
+
     <p align="center">
-      <img src="images/ex9_17_followup_prompt.png" alt="Follow-up prompt asking for details of the first sales order" width="30%" />
-      <img src="images/ex9_18_sales_order_card.png" alt="New sales order detail card added to the Space canvas" width="30%" />
+      <img src="images/ex9_18_sales_order_card.png" alt="New sales order detail card visible on mobile" width="30%" />
     </p>
 
-2. Open the Conversation sheet for this Space again and ask Joule:
+4. In the **same conversation panel** on the browser, ask Joule a second follow-up:
 
     ```text
     Can you also add a card with details of the customer of Sales Order 195697
     ```
 
-    <p align="center">
-      
-    </p>
+    ![Second follow-up prompt typed in the browser chat panel](images/ex9_19_customer_prompt_web.png)
 
-3. Once Joule is done, inspect the new elements on the Space's canvas: a customer account card now sits alongside the sales order details, all generated on the fly from your conversation.
+    ![Customer account detail card added to the Space canvas on the web](images/ex9_20_customer_card_web.png)
+
+5. Again check your phone: the customer card has appeared here as well.
 
     <p align="center">
-      <img src="images/ex9_19_customer_prompt.png" alt="Follow-up prompt asking to add a customer details card" width="30%" />
-      <img src="images/ex9_20_customer_card.png" alt="Customer account detail card added to the Space canvas" width="30%" />
+      <img src="images/ex9_20_customer_card.png" alt="Customer account detail card visible on mobile" width="30%" />
     </p>
 
 ## Exercise 9.9 Dictate with your voice
@@ -212,7 +218,7 @@ Beyond dictating single prompts, Joule can hold a full spoken conversation with 
 
 ## Summary
 
-You experienced Joule Work on mobile: Conversations and Spaces on your phone, in sync with the web. You compared the classic and Agentic Thinking modes, let your imported **sap-teched-2026** skill recommend a session, and routed a request to the Billing Assistant with **@**. In Spaces you saw AI-generated content rendered as fully interactive native charts, then created a brand-new Space straight from the phone, watched Joule build it from live SAP S/4HANA data, and extended it further through follow-up questions that added new cards to the canvas. You also dictated a prompt with your voice, and you can come back to **Voice Mode** for a full hands-free conversation with Joule. Across this session you saw one app serve two experiences, your Intelligent Enterprise through SAP Build Work Zone, and the AI-native environment through Joule Work, and how it becomes the mobile foundation for your company's transition to an autonomous, AI-native way of working.
+You experienced Joule Work on mobile: Conversations and Spaces on your phone, in sync with the web. You compared the classic and Agentic Thinking modes, let your imported **sap-teched-2026** skill recommend a session, and routed a request to the Billing Assistant with **@**. In Spaces you saw AI-generated content rendered as fully interactive native charts, then created a brand-new Space straight from the phone and watched Joule build it from live SAP S/4HANA data. You then extended the Space through follow-up questions typed in the browser chat panel, and watched each new card appear on mobile at the same time, confirming the real-time sync between devices. You also dictated a prompt with your voice, and you can come back to **Voice Mode** for a full hands-free conversation with Joule. Across this session you saw one app serve two experiences, your Intelligent Enterprise through SAP Build Work Zone, and the AI-native environment through Joule Work, and how it becomes the mobile foundation for your company's transition to an autonomous, AI-native way of working.
 
 > [!IMPORTANT]
 > **Congratulations!** 🎉 You have completed the JW164 hands-on session.
